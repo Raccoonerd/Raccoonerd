@@ -1,9 +1,9 @@
-### 🌀 About Me:
+# 🌀 About Me:
 
 - 🎓 Student at University of Bielsko-Biala, 3rd year Computer Science
 - 🖥️ Interested in Backend, Systems Programming & Computer Graphics (OpenGL)
 
-### 💻 Tech Stack:
+# 💻 Tech Stack:
 
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
@@ -13,7 +13,7 @@
 ![MSSQL](https://img.shields.io/badge/-MSSQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
 
-### 📊 GitHub Stats:
+# 📊 GitHub Stats:
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=TWOJNICK&show_icons=true&theme=tokyonight)
 
