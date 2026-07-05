@@ -17,6 +17,7 @@
 # 📊 GitHub Stats:
 
 ![Stats](https://github-stats-extended.vercel.app/api?username=Raccoonerd&show_icons=true&theme=tokyonight)
+![Streak](https://streak-stats.demolab.com/?user=Raccoonerd&theme=tokyonight)
 
 ---
 
