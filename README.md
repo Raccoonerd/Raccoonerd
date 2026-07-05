@@ -15,8 +15,8 @@
 
 # 📊 GitHub Stats:
 
-![Stats](https://github-readme-stats.vercel.app/api?username=raccoonerd&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=Raccoonerd&show_icons=true&theme=tokyonight)
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=TWOJNICK&style=flat-square&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=Raccoonerd&style=flat-square&color=blue)
