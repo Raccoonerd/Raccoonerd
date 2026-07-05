@@ -1,4 +1,6 @@
-## Hi there 👋
+## About Me:
+Computer Science student at the University of Bielsko-Biała, having just completed my second year.
+![Stats](https://github-readme-stats.vercel.app/api?username=Raccoonerd&show_icons=true&theme=radical)
 
 <!--
 **Raccoonerd/Raccoonerd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
