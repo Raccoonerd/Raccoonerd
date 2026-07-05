@@ -18,6 +18,7 @@
 
 ![Stats](https://github-stats-extended.vercel.app/api?username=Raccoonerd&show_icons=true&theme=tokyonight)
 ![Streak](https://streak-stats.demolab.com/?user=Raccoonerd&theme=tokyonight)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs?username=Raccoonerd&theme=tokyonight&layout=compact)
 
 ---
 
