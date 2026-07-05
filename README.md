@@ -15,7 +15,7 @@
 
 # 📊 GitHub Stats:
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Raccoonerd&show_icons=true&theme=tokyonight&hide_border=true)
+![Stats](https://github-stats-extended.vercel.app/api?username=Raccoonerd&show_icons=true&theme=tokyonight)
 
 ---
 
